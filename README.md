@@ -1,4 +1,3 @@
-```markdown
 # 🎙️ Multi-API Audio Transcriber & Intelligent Meeting Summary System
 ### 基于异构 API 的智能语音转录与自动化会议纪要系统
 
